@@ -1,4 +1,5 @@
-# Doctor-Care-Page
-Projeto desenvolvido durante o desafio do NLW Return 
+# project-NLWreturn
+*****Este projeto está sendo desenvolvido junto ao evendo NLW Return da Rocketseat*****
 
-<img src="Preview.png" width="350"/>
+Segue link para acesso do projeto que esta no ar. 
+(https://danieltibaes505.github.io/project-NLWreturn/)
